@@ -3,3 +3,13 @@ FRAMEWORK SAMPLE
 function A {
 	print  "Hello World";
 }
+
+
+funtion print_text {
+	print "Hi!";
+
+
+function is_password_match(p1, p2) {
+	return p1 == p2;
+
+}
